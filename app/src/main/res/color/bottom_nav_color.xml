@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:color="#E0AAFF" android:state_checked="true" />
-    <!-- Color cuando está inactivo (Gris sutil) -->
+    <!-- COLOR BOTTOM MENU EN EL QUE EL USUARIO NO ESTÁ -->
     <item android:color="#8C82A2" android:state_checked="false" />
 </selector>
